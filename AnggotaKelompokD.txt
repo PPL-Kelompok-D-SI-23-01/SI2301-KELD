@@ -1,6 +1,11 @@
 Sekar Novica Azkarani
 Muhammad Nabil Shidqiy
-Salsa Salfania
+Salsa Salfania_102042300016
 Rian Hapsari
+<<<<<<< HEAD
 Zulfa Yafiansyah - 102042330003
 Muhamad Naufal Nazih
+=======
+Zulfa Yafiansyah
+Muhamad Naufal Nazih - 102042300023
+>>>>>>> 0d752405a0fd513b96f47d5f28061f785cce95d9
