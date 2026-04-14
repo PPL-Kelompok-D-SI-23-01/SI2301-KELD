@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+Sekar Novica Azkarani
+Muhammad Nabil Shidqiy
+Salsa Salfania_102042300016_Menampilkan Detail Resep dan Nutrisi
+Rian Hapsari
+Zulfa Yafiansyah
+Muhamad Naufal Nazih
+=======
 Sekar Novica Azkarani - 102042300081
 Rian Hapsari - 102042300031
 Muhammad Nabil Shidqiy - 102042300026
@@ -5,3 +13,4 @@ Salsa Salfania - 102042300016
 Zulfa Yafiansyah - 102042330003
 Muhamad Naufal Nazih - 102042300023
 
+>>>>>>> 0f5e2f9ad55e94c3b8a3008688f1cde66172b479
